@@ -1,0 +1,30 @@
+{
+	"name"        : "js-infinite-json",
+	"version"     : "0.0.1",
+	"description" : "Circular JSON handler. Parse and stringify objects containing circular references",
+	"keywords": [
+		"json",
+		"util",
+		"misc",
+		"circular",
+		"recursive",
+		"object"
+	],
+	"homepage" : "https://github.com/juliostanley/js-infinite-json",
+	"bugs"     : "https://github.com/juliostanley/js-infinite-json/issues",
+	"license"  : "BSD-2-clause",
+	"author"   : {
+		"name"  : "Julio Stanley",
+		"url"   : "https://github.com/juliostanley"
+	},
+	"contributors" : [],
+	"files"        : [
+		"examples",
+		"infinite-json.js",
+		"infinite-json.min.js"
+	],
+	"main"            : "infinite-json.js",
+	"repository"      : "https://github.com/juliostanley/js-infinite-json.git",
+	"dependencies"    : {},
+	"devDependencies" : {}
+}
