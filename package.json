@@ -12,7 +12,7 @@
 	],
 	"homepage" : "https://github.com/juliostanley/js-infinite-json",
 	"bugs"     : "https://github.com/juliostanley/js-infinite-json/issues",
-	"license"  : "BSD-2-clause",
+	"license"  : "BSD-2-Clause",
 	"author"   : {
 		"name"  : "Julio Stanley",
 		"url"   : "https://github.com/juliostanley"
